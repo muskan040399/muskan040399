@@ -1,68 +1,58 @@
-# <p align="center">Hi there, I'm Muskan Kumari! 👋</p>
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/bb/5e/47/bb5e47498772c0628f6dc7f26a6af28c.gif" alt="bg" width="1100" height="500"/>
+</p>
+
+
+
+# <p align="center">✨ Hi there, I'm Muskan Kumari! ✨</p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=muskan040399&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h2 align="center">Full-Stack Developer | Open Source Contributor @MIT App Inventor</h2>
+### 💫 About Me:
+- 🎓 **Computer Science Student** at UIT, Burdwan University.
+- 🚀 **GSoC '26 Applicant** contributing to **MIT App Inventor**.
+- 💻 Passionate about **Full-Stack Development** and **Open Source**.
+- 🌱 Let's connect and collaborate on some cool projects together!
 
-- 🔭 **GSoC '26 Applicant**: Working on Refactoring the **ListView Component** for MIT App Inventor.
-- 🌱 **Learning Focus**: Deepening my skills in **Advanced Java** and **Swift** for cross-platform parity.
-- ⚡ **Tech Expert**: Specialized in **PERN Stack** (PostgreSQL, Express, React, Node) and **AI integrations**.
-- 📫 **Contact**: [kumarimuskan5141@gmail.com](mailto:kumarimuskan5141@gmail.com)
-
-<h3 align="left">Connect with me:</h3>
+### 🌐 Socials:
 <p align="left">
-<a href="https://www.linkedin.com/in/muskan-kumari-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muskan-kumari-b115b12a1" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:kumarimuskan5141@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
-
-### 🛠️ Technical Skills (Based on Projects)
-
-<h3 align="left">Languages & Mobile Dev:</h3>
-<p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="45" height="45"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="45" height="45"/>
+### 💻 Tech Stack:
+<p align="left">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-<h3 align="left">Backend & Database (PERN Specialist):</h3>
-<p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"/>
-</p>
-
----
-
-### 📂 Key Projects
-
-- **🚀 MIT App Inventor (Open Source)**
-  - Implementing **Language Search (#3204)** and optimizing **Account Deletion workflow (#3584)** using Java.
-- **🤖 VaaniDB**
-  - AI-powered tool using **Sarvam AI** and **PERN Stack** to query CSV data with natural language.
-- **👁️ Vision Bot**
-  - Image analysis bot built with **C++** and Asynchronous API calls.
-- **📚 BookTracker**
-  - Full-stack CRUD application for managing reading lists.
-
----
-
-### 📊 GitHub Analysis
-
+### 🏆 GitHub Trophies:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=muskan040399&show_icons=true&theme=radical&count_private=true" alt="Muskan Stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=muskan040399&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
 </p>
 
+### 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan040399&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=muskan040399&show_icons=true&theme=radical&count_private=true" alt="Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muskan040399&theme=radical" alt="Streak" />
+</p>
+
+### 💬 Random Dev Quote:
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
 
 ---
 <p align="center">
-"Building scalable solutions through open-source collaboration." ✨
+"Solving real-world problems through open-source collaboration." ✨
 </p>
