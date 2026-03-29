@@ -38,7 +38,7 @@
 
 ### 🏆 GitHub Trophies:
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=muskan040399&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=muskan040399&theme=juicy" alt="Trophies" />
 </p>
 
 ### 📊 GitHub Stats:
